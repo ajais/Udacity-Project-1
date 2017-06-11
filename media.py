@@ -2,6 +2,9 @@
 Defines the Movie class for this project.
 Each movie gets a title, storyline, poster image and youtube trailer,
 as well as a method to play that trailer.
+
+Generated during the course of the "Programming Fundamentals and the Web" lecture
+on Udacity.
 '''
 
 import webbrowser

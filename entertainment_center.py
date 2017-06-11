@@ -1,3 +1,11 @@
+'''
+Movie trailer website server backend that generates a page to show
+a selection of movies, with their posters and trailers.
+
+Generated during the course of the "Programming Fundamentals and the Web" lecture
+on Udacity
+'''
+
 import media
 import fresh_tomatoes
 

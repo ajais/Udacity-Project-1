@@ -1,6 +1,6 @@
 # Movie Trailer Website
 
-Source code for a Movie Trailer server backend that generates a page to show a selection of movies, with their posters and trailers..
+Source code for a movie trailer website server backend that generates a page to show a selection of movies, with their posters and trailers.
 
 ## Installation
 Clone the GitHub repository in a directory of your choosing to install this project.
@@ -9,7 +9,7 @@ Clone the GitHub repository in a directory of your choosing to install this proj
 git clone https://github.com/ajais/Udacity-Project-1.git
 ```
 
-Running this program requires Python to be installed on the target system
+Running this program requires Python to be installed on the target system.
 
 ## Usage
 In the terminal go to the folder where the project is located and type the following command:
