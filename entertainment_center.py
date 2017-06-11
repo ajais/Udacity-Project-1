@@ -1,6 +1,7 @@
 import media
 import fresh_tomatoes
 
+# Generate the movie objects by calling the constructor media.Movie()
 toy_story = media.Movie("Toy Story",
                         "A Story of a boy and his toys that come to life",
                         "http://www.impawards.com/1995/posters/toy_story_ver1_xlg.jpg",
@@ -31,5 +32,8 @@ hunger_games = media.Movie("Hunger Games",
                      "https://images-na.ssl-images-amazon.com/images/I/51OGv-AnD6L.jpg",
                      "https://www.youtube.com/watch?v=4S9a5V9ODuY")
 
+# Create a data structure with our movies
 movies=[toy_story,avatar,ratatouille,school_of_rock,midnight_in_paris,hunger_games]
+
+# Call the open_movies_page function to generate the html page
 fresh_tomatoes.open_movies_page(movies)
