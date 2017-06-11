@@ -5,18 +5,18 @@ Source code for a Movie Trailer server backend that generates a page to show a s
 ## Installation
 Clone the GitHub repository in a directory of your choosing to install this project.
 
-'''bash
+```bash
 git clone https://github.com/ajais/Udacity-Project-1.git
-'''
+```
 
 Running this program requires Python to be installed on the target system
 
 ## Usage
 In the terminal go to the folder where the project is located and type the following command:
 
-'''python
+```python
 python entertainment_center.py
-'''
+```
 
 The entertainment_center.py script can also be run from python IDLE.
 
