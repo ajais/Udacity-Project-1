@@ -14,7 +14,7 @@ Running this program requires Python to be installed on the target system
 ## Usage
 In the terminal go to the folder where the project is located and type the following command:
 
-```python
+```bash
 python entertainment_center.py
 ```
 
